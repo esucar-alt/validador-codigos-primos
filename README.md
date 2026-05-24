@@ -13,7 +13,7 @@ Este es un proyecto interactivo desarrollado para el desafío de la materia de P
 * **Diseño Responsivo:** Interfaz limpia adaptada para dispositivos móviles y computadoras mediante CSS nativo y variables en `:root`.
 
 ## 🌎 Uso del Ingles
-Se hizo uso del idioma ingles en id´s y variables ya que este es el idioma universal de la programacion y que todo programador debe practicar y aprender a lo largo de su carrera
+* Se hizo uso del idioma ingles en id´s y variables ya que este es el idioma universal de la programacion y que todo programador debe practicar y aprender a lo largo de su carrera
 
 ## 🛠️ Tecnologías Utilizadas
 * HTML5 (Estructura semántica)
