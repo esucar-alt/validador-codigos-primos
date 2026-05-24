@@ -12,6 +12,9 @@ Este es un proyecto interactivo desarrollado para el desafío de la materia de P
 * **Sugerencias inteligentes:** Si el código ingresado es inseguro (no primo), el sistema busca y despliega dinámicamente en una tabla los 3 números primos seguros más cercanos.
 * **Diseño Responsivo:** Interfaz limpia adaptada para dispositivos móviles y computadoras mediante CSS nativo y variables en `:root`.
 
+## Uso del Ingles
+Se hizo uso del idioma ingles ya que en la carrera de informatica se hace mucho uso de este idioma a nivel mundial, entonces a modo de practica se lo uso en id´s y variables
+
 ## 🛠️ Tecnologías Utilizadas
 * HTML5 (Estructura semántica)
 * CSS3 (Diseño responsivo y variables globales en `:root`)
