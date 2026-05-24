@@ -19,3 +19,7 @@ Este es un proyecto interactivo desarrollado para el desafío de la materia de P
 * HTML5 (Estructura semántica)
 * CSS3 (Diseño responsivo y variables globales en `:root`)
 * JavaScript (Lógica matemática, ciclos `while`/`for` y manipulación del DOM con `document.getElementById`)
+
+## 🌐 Enlace Directo
+* Dale una visita a la pagina con el siguiente enlace:
+* https://esucar-alt.github.io/validador-codigos-primos/
